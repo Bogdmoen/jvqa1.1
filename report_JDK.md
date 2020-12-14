@@ -12,7 +12,7 @@
 
 ![](files/java11done.png)
 
-1. Приложение KeyValidator запускается и польностью совместимо с java 11.
+2. Приложение KeyValidator запускается и польностью совместимо с java 11.
 
 ![](files/valapp1.png)
 
