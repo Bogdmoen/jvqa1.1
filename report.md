@@ -10,11 +10,11 @@
 1. Установка OpenJDK производилась на ситсему WIN10 x64
 В проецессе установки по инструкции проблем не возникло.
 
-![](files\java11done.png)
+![](files/java11done.png)
 
 1. Приложение KeyValidator запускается и польностью совместимо с java 11.
 
-![](files\valapp1.png)
+![](files/valapp1.png)
 
 
 
