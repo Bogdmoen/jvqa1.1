@@ -18,7 +18,7 @@
 
 * [Руководство использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
-В качестве тестовых данных использовались данные [список лицензионных ключей](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md):
+В качестве тестовых данных использовались данные: [список лицензионных ключей](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md):
 
 1. Установка OpenJDK производилась на ситсему WIN10 x64.
 В проецессе установки по инструкции проблем не возникло.
